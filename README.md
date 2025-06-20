@@ -90,4 +90,9 @@ Here is a screenshot of the dashboard in action:
 
 *Mohamed Khedr*
 
-If you found this dashboard useful or have suggestions, feel free to connect or open an issue in the repository.
+---
+
+## 📬 Contact
+
+- [LinkedIn Profile](https://www.linkedin.com/in/mohamed-khedr-2b588a210)  
+- 📧 Email: [mokhedr129@gmail.com](mailto:mokhedr129@gmail.com)
