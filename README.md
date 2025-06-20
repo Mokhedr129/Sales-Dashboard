@@ -17,6 +17,14 @@ These elements work together to provide an intuitive and dynamic overview of sal
 
 ---
 
+## 📷 Dashboard Preview
+
+Here is a screenshot of the dashboard in action:
+
+![Dashboard Screenshot](https://github.com/Mokhedr129/Sales-Dashboard/assets/79454870/e06dc8f5-172a-4747-b65f-84b1ebce4ac6)
+
+---
+
 ## 📌 Key Features
 
 - ✅ Quarterly sales breakdown (Q1 - Q4)
@@ -47,7 +55,7 @@ These elements work together to provide an intuitive and dynamic overview of sal
 
 - SalesDashboard.xlsx – The main Excel file containing the dashboard and data
 - README.md – Project documentation file (this file)
-- (Optional) dashboard-screenshot.png – A static preview image of the dashboard
+- Screenshot hosted on GitHub
 
 ---
 
