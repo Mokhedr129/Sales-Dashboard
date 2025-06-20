@@ -21,7 +21,7 @@ These elements work together to provide an intuitive and dynamic overview of sal
 
 Here is a screenshot of the dashboard in action:
 
-![Dashboard Screenshot](https://github.com/Mokhedr129/Sales-Dashboard/assets/79454870/e06dc8f5-172a-4747-b65f-84b1ebce4ac6)
+![Dashboard Screenshot](Dashboard Screenshot.png)
 
 ---
 
